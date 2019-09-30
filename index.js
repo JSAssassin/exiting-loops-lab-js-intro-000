@@ -7,4 +7,6 @@ function breakOut(array, changeValue, stopValue){
     element = changeValue;
 
   })
+
+  return array;
 }
